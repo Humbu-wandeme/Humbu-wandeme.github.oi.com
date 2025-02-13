@@ -1,0 +1,34 @@
+# Business Profile Configuration
+business:
+  name: "Humbu Wandeme Trading Enterprise"
+  tagline: "Pure Health, Pure Collagen – Your Path to Wellness"
+  email: "humbuskim@gmail.com"
+  whatsapp: "079 465 8481"
+  address: ""  # thohoyandou Maniini block 
+
+# Developa
+product:
+  name: "Pure Collagen with Peptan"
+  description: "A high-quality collagen product for skin health and joint flexibility."
+  size: "250g"
+  duration: "30 days"
+  price: "R300"
+
+# Background Configuration
+background:
+  image: "your-image.jpg"  # Replace with the actual image file name
+  color: "#FFFFFF"  # Background color (white by default)
+  overlay: "rgba(0, 0, 0, 0.7)"  # Semi-transparent overlay for text readability
+
+# Call-to-Action (CTA)
+cta:
+  button_text: "Order Now"
+  button_link: "https://wa.me/27794658481"  # WhatsApp link
+  button_color: "#4CAF50"  # Green color for the button
+  button_hover_color: "#45a049"  # Darker green on hover
+
+# Social Media Links (Optional)
+social_media:
+  facebook: ""  # Add your Facebook link if available
+  instagram: ""  # Add your Instagram link if available
+  website: ""  # Add your website URL if available
